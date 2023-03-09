@@ -1,0 +1,7 @@
+2023-03-01T16:56:16.9104128 401 : [no body]
+2023-03-01T17:33:58.7089663 404 : [{"timestamp":"2023-03-02T01:33:58.693+00:00","status":404,"error":"Not Found","message":"No message available","path":"/usernames"}]
+2023-03-01T21:23:15.7528296 401 : [no body]
+2023-03-01T21:46:22.630406 404 : [{"timestamp":"2023-03-02T05:46:22.618+00:00","status":404,"error":"Not Found","message":"No message available","path":"/usernames"}]
+2023-03-01T21:47:07.3260636 404 : [{"timestamp":"2023-03-02T05:47:07.311+00:00","status":404,"error":"Not Found","message":"No message available","path":"/usernames"}]
+2023-03-01T21:56:05.2633993 404 : [{"timestamp":"2023-03-02T05:56:05.252+00:00","status":404,"error":"Not Found","message":"No message available","path":"/usernames"}]
+2023-03-01T21:57:05.6893659 404 : [{"timestamp":"2023-03-02T05:57:05.670+00:00","status":404,"error":"Not Found","message":"No message available","path":"/usernames"}]

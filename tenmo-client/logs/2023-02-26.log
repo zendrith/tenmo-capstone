@@ -1,0 +1,8 @@
+2023-02-26T06:19:59.2387488 Username not found
+2023-02-26T10:35:46.6417544 401 : [no body]
+2023-02-26T12:37:28.3065667 500 : [{"timestamp":"2023-02-26T20:37:28.291+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; bad SQL grammar [select * from transfer where account_from = ? or account_to = ?ORDER BY transfer_id]; nested exception is org.postgresql.util.PSQLException: ERROR: trailing junk after parameter at or near \"$2O\"\n  Position: 64","path":"/transfers/history/2002"}]
+2023-02-26T12:39:12.0018938 401 : [no body]
+2023-02-26T18:54:35.0998065 401 : [{"timestamp":"2023-02-26T23:54:35.073+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/transfers/pending/2002"}]
+2023-02-26T18:56:33.7260878 401 : [{"timestamp":"2023-02-26T23:56:33.706+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/transfers/pending/2003"}]
+2023-02-26T18:57:23.8120779 401 : [{"timestamp":"2023-02-26T23:57:23.794+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/transfers/pending/2003"}]
+2023-02-26T19:36:02.3666237 401 : [no body]

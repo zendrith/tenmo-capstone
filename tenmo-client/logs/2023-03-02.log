@@ -1,0 +1,12 @@
+2023-03-02T09:38:29.6306209 404 : [{"timestamp":"2023-03-02T17:38:29.618+00:00","status":404,"error":"Not Found","message":"No message available","path":"/usernames"}]
+2023-03-02T09:42:46.256061 404 : [{"timestamp":"2023-03-02T17:42:46.245+00:00","status":404,"error":"Not Found","message":"No message available","path":"/usernames"}]
+2023-03-02T09:46:14.4294264 404 : [{"timestamp":"2023-03-02T17:46:14.418+00:00","status":404,"error":"Not Found","message":"No message available","path":"/usernames"}]
+2023-03-02T12:10:42.1578219 401 : [no body]
+2023-03-02T17:14:29.0525831 500 : [{"timestamp":"2023-03-03T01:14:29.041+00:00","status":500,"error":"Internal Server Error","message":"StatementCallback; bad SQL grammar [SELECT contact_user_id FROM user_contacts WHERE user_id = ? ]; nested exception is org.postgresql.util.PSQLException: ERROR: syntax error at end of input\n  Position: 61","path":"/user/contacts/1001"}]
+2023-03-02T17:21:44.3790557 500 : [{"timestamp":"2023-03-03T01:21:44.367+00:00","status":500,"error":"Internal Server Error","message":"StatementCallback; bad SQL grammar [SELECT contact_user_id FROM user_contacts WHERE user_id = ? ]; nested exception is org.postgresql.util.PSQLException: ERROR: syntax error at end of input\n  Position: 61","path":"/user/contacts/1001"}]
+2023-03-02T17:30:19.9936256 500 : [{"timestamp":"2023-03-03T01:30:19.972+00:00","status":500,"error":"Internal Server Error","message":"StatementCallback; bad SQL grammar [SELECT contact_user_id FROM user_contacts WHERE user_id = ? ]; nested exception is org.postgresql.util.PSQLException: ERROR: syntax error at end of input\n  Position: 61","path":"/user/contacts/1001"}]
+2023-03-02T17:34:40.4215888 500 : [{"timestamp":"2023-03-03T01:34:40.399+00:00","status":500,"error":"Internal Server Error","message":"StatementCallback; bad SQL grammar [SELECT contact_user_id FROM user_contacts WHERE user_id = ? ]; nested exception is org.postgresql.util.PSQLException: ERROR: syntax error at end of input\n  Position: 61","path":"/user/contacts/1001"}]
+2023-03-02T18:07:03.746275 400 : [{"timestamp":"2023-03-03T02:07:03.733+00:00","status":400,"error":"Bad Request","message":"Required Integer parameter 'userId' is not present","path":"/user/addContact"}]
+2023-03-02T18:11:33.277107 404 : [{"timestamp":"2023-03-03T02:11:33.263+00:00","status":404,"error":"Not Found","message":"No message available","path":"/user/addContact"}]
+2023-03-02T22:03:22.1749995 Username not found
+2023-03-02T22:03:31.5679481 Username not found
